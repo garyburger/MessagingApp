@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Chat with someone!"
+        android:id="@+id/chat_with_a_person">
+    </item>
+
+    <item
+        android:title="Create Group Chat"
+        android:id="@+id/group">
+    </item>
+
+    <item
+        android:title="Settings"
+        android:id="@+id/settings">
+    </item>
+
+    <item
+        android:title="Logout"
+        android:id="@+id/logout">
+    </item>
+
+    <item
+        android:title="Maps"
+        android:id="@+id/googleMaps">
+    </item>
+</menu>
